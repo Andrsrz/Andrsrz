@@ -14,3 +14,9 @@
                 ||----w |
                 ||     ||
 ```
+
+<a align="center" href="https://andrsrz.github.io">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=andrsrz&show_icons=true&theme=dracula" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrsrz&layout=compact&theme=dracula" alt="languages" height="165">
+</p>
+</a>
