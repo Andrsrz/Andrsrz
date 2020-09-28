@@ -1,12 +1,3 @@
-<span class="badge-buymeacoffee">
-    <a href="https://www.buymeacoffee.com/andrsrz"
-    title="Donate using Buy Me A Coffee">
-    <img
-    src="https://img.shields.io/static/v1?label=Buy Me a Beer&message=donate&color=FF813F&style=for-the-badge&logo=buy-me-a-coffee"
-    alt="Buy Me A Coffee donate button" />
-    </a>
-</span>
-
 ``` sh
 <me@ardc-pc>$ cat sayhi | cowsay >> README.md && echo '```' >> README.md
 "
